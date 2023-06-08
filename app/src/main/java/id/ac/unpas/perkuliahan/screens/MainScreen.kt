@@ -116,7 +116,7 @@ fun MainScreen() {
             NavHost(navController = navController,
                 startDestination = "home") {
                 composable("home") {
-                    HomeScreen()
+                    HomeScreen(navController = navController)
                 }
                 composable("setting") {
                     SettingScreen()
