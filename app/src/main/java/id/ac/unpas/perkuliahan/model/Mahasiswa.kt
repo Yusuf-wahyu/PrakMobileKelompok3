@@ -5,10 +5,7 @@ import androidx.room.Entity
 import androidx.room.PrimaryKey
 import com.google.gson.annotations.SerializedName
 
-//enum class JenisKelamin {
-//    Laki_Laki,
-//    Perempuan
-//}
+
 
 @Entity
 @Immutable

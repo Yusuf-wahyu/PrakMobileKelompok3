@@ -15,11 +15,8 @@ import id.ac.unpas.perkuliahan.R
 @Composable
 fun SettingScreen(modifier: Modifier = Modifier) {
     Image(
-        painter = painterResource(R.drawable.credit), // Ganti "your_image" dengan nama file gambar Anda
+        painter = painterResource(R.drawable.credit),
         contentDescription = "Gambar",
         modifier = Modifier.fillMaxWidth()
-        //.size(400.dp, 4000.dp) // Mengatur ukuran gambar
-        //.padding(10.dp)
     )
-
 }
