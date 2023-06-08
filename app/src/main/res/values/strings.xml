@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Perkuliahan</string>
+    <string name="home">Home</string>
+    <string name="pengelolaan_dosen">Pengelolaan Dosen</string>
+    <string name="pengelolaan_mahasiswa">Pengelolaan Mahasiswa</string>
+    <string name="pengelolaan_matakuliah">Pengelolaan Matakuliah</string>
+    <string name="setting">Setting</string>
+</resources>
